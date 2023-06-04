@@ -4,7 +4,18 @@
 <br>Students project for C# & .Net Framework course - The Academic College of Tel Aviv - Yaffo</p>
 
 <h2>About</h2>
-This is an opposite X Mix Drix game - wh
+
+This is an opposite X Mix Drix game.
+
+The player who reaches a sequence of symbols (balanced or vertical or diagonal) loose!
+
+Board size: between 3x3 to 9x9 as you choose.
+
+Game options: 
+
+1. play between two user players.
+2. play against the computer (naive random algorithm)
+3. hard play against a hard computer (using logic algorithm)
 
 <h2>Team Members</h2>
 
